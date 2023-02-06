@@ -1,0 +1,17 @@
+{
+	"name": "nycpayroll-facotry-sz",
+	"properties": {
+		"globalParameters": {
+			"glbFiscalYear": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d420c4dd-6d5f-47ba-8e11-f873691ebb31",
+		"tenantId": "f2f2d56b-11e8-4cc1-b6d0-c882f0e6a104"
+	}
+}
